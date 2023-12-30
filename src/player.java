@@ -4,7 +4,8 @@ public class player {
         int b=4;
         //sum of two numbers
         int c=a+b;
-        System.out.println(c);
+        int z=a*b;
+        System.out.println("sum "+c+" player 2 added multiply "+z);
         
 
 
