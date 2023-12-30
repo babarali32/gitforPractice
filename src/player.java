@@ -6,8 +6,16 @@ public class player {
 
         
         int c=a+b;
+       
         int z=a*b;
         System.out.println("sum "+c+" player 2 added multiply "+z);
+
+        int d=a-b;
+        double num1=2;
+        double num2=3;
+        double num3=num1/num2;
+        System.out.println("sum "+c+" subtraction player one "+d);
+        
         
 
 
