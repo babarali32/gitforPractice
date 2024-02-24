@@ -1,4 +1,4 @@
-public class player {
+public class player01 {
     public static void main(String[] args) {
         int a=2;
         int b=4;
@@ -15,8 +15,8 @@ public class player {
         double num2=3;
         double num3=num1/num2;
         System.out.println("sum "+c+" subtraction player one "+d);
-        
-        
+
+        System.out.println("i am player one, i added this line only");
 
 
 
